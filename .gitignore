@@ -1,0 +1,6 @@
+*.vcd
+*.log
+obj_dir/
+__pycache__/
+sim_build/
+runs/
