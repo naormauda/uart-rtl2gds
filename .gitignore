@@ -6,3 +6,4 @@ sim_build/
 runs/
 uart_sim
 dump.vcd
+openlane/uart_top/runs/

@@ -1,0 +1,16 @@
+{
+    "DESIGN_NAME": "uart_top",
+    "VERILOG_FILES": [
+        "dir::../../rtl/baud_gen.sv",
+        "dir::../../rtl/uart_tx.sv",
+        "dir::../../rtl/uart_rx.sv",
+        "dir::../../rtl/uart_top.sv"
+    ],
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 20.0,
+    "FP_CORE_UTIL": 40,
+    "PL_TARGET_DENSITY_PCT": 45,
+    "FP_PDN_MULTILAYER": true,
+    "SYNTH_STRATEGY": "AREA 0",
+    "RUN_LINTER": false
+}
